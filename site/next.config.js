@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'ardy.tech kasm registry',
-    description: 'ardy's registry for stuff',
+    name: 'ardy.tech-kasm-registry',
+    description: 'kasm-stuff',
     icon: '/img/logo.svg',
     listUrl: 'https://youcanreachardy.github.io/kasm-registry/',
     contactUrl: 'https://ardy.tech',
