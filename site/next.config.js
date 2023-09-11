@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'ardy.tech kasm registry',
+    description: 'ardy's registry for stuff',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://github.com/youcanreachardy/kasm-registry/',
+    contactUrl: 'https://ardy.tech',
   },
   reactStrictMode: true,
   swcMinify: true,
